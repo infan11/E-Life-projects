@@ -12,7 +12,7 @@ import Main from "../Components/Main/Main";
       children: [
         {
           path: "/",
-          elementL: <Home></Home>
+          element: <Home></Home>
         }
       ]
     },
