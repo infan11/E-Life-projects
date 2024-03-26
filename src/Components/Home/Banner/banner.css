@@ -1,10 +1,13 @@
 .background {
   
-    height: 200px;
+    height: 240px;
 
 }
 .shop {
     mix-blend-mode: darken;
     
     
+}
+.logo {
+    mix-blend-mode: darken;
 }
